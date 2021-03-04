@@ -1,0 +1,5 @@
+[template]
+src = "sonar-project.properties"
+dest = "sonar-project.properties"
+owner = "root"
+mode = "0755"
