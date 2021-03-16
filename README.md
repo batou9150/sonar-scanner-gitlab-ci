@@ -1,6 +1,10 @@
-# sonar-scanner-gitlab-ci
+# batou9150/sonar-scanner-gitlab-ci
 
-generate a default `sonar-project.properties` with gitlab-ci env vars
+![Docker Pulls](https://img.shields.io/docker/pulls/batou9150/sonar-scanner-gitlab-ci.svg)
+![Docker Stars](https://img.shields.io/docker/stars/batou9150/sonar-scanner-gitlab-ci.svg)
+[Docker Hub](https://hub.docker.com/r/batou9150/sonar-scanner-gitlab-ci/) 
+
+Generate a default `sonar-project.properties` with gitlab-ci env vars
 
 ## usage in .gitlab-ci.yml
 
