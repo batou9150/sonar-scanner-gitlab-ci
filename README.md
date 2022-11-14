@@ -9,6 +9,10 @@ Generate a default `sonar-project.properties` with gitlab-ci env vars
 ## usage in .gitlab-ci.yml
 
 ```
+cache:
+  paths:
+  - /opt/sonar-scanner/.sonar
+
 variables:
   SONAR_HOST_URL: "http://my-sonarqube:9000"
 
